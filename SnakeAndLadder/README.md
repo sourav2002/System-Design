@@ -9,3 +9,5 @@
     - Load the configured snake and ladder
     - Load the configured number of dice
     - Load the number of players who will play the game and all players should be at starting location
+
+![screenshot](https://github.com/sourav2002/System-Design/blob/master/SnakeAndLadder/ss.png)
